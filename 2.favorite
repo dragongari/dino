@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>A famous character in South Korea - EDGED-STAR</title>
+<meta charset="utf-8">
+
+<body>
+    <h1><a href="index.favorite"></a>FAVORITE</h1>
+<ol>
+    <li><a href="1.favorite">DINO</a></li>
+    <li><a href="2.favorite">EDGED-STAR</a></li>
+    <li><a href="3.favorite">SLEEPGROUND</a></li>
+</ol>
+<ul>
+    <li><a href="4.favorit">add</a></li>
+</ul>
+
+<h2>EDGED-STAR</h2>
+<p>He is a Korean Minecraft YouTuber and Twitch streamer.</p>
+<img src="edgedstar.jpeg" width="100%">
+<table>
+    <tr>
+        <td>real name</td>
+        <td>Kim il yeong</td>
+    </tr>
+</table>
+<p>There is no fixed content and often plays using plug-ins or
+     has simple conversations.</p>
+
+</body>
+</head>
+</html>

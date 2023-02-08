@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>A famous character in South Korea</title>
+<meta charset="utf-8">
+
+<body>
+    <h1><a href="index.favorite"></a>FAVORITE</h1>
+<ol>
+    <li><a href="1.favorite">DINO</a></li>
+    <li><a href="2.favorite">EDGED-STAR</a></li>
+    <li><a href="3.favorite">SLEEPGROUND</a></li>
+</ol>
+<ul>
+    <li><a href="4.favorit">add</a></li>
+</ul>
+
+<h2>DINO</h2>
+<p>He is an Internet broadcaster responsible for cuteness among Pixeli members. 
+Content is a comprehensive game and talk based on <strong>Minecraft.</strong></p>
+<img src="공룡 메인 사진.jpeg" width="100%">
+<table>
+    <tr>
+        <td>real name</td>
+        <td>Jeong hyeong jun</td>
+    </tr>
+</table>
+<p>Thanks to his unique sense of humor, the charm of sublimating any genre of games into a B-class sensibility, 
+    and its recognition from the days of Dotty TV fairies, it has quite a number of followers even though it hasn't been 
+    long since the <a href="https://namu.wiki/w/%ED%8A%B8%EC%9C%84%EC%B9%98" target="_blank" title="Twitch">Twitch</a> broadcasting.</p>
+</body>
+</head>
+</html>

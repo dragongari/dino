@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>A famous character in South Korea</title>
+<title>Why did i flip dino? - add</title>
 <meta charset="utf-8">
+</head>
 
 <body>
-    <h1><a href="index.favorite"></a>FAVORITE</h1>
+    <h1><a href="index.favorite.html"></a>FAVORITE</h1>
 <ol>
-    <li><a href="1.favorite">DINO</a></li>
-    <li><a href="2.favorite">EDGED-STAR</a></li>
-    <li><a href="3.favorite">SLEEPGROUND</a></li>
+    <li><a href="1.favorite.html">DINO</a></li>
+    <li><a href="2.favorite.html">EDGED-STAR</a></li>
+    <li><a href="3.favorite.html">SLEEPGROUND</a></li>
 </ol>
 <ul>
-    <li><a href="4.favorite">add</a></li>
+    <li><a href="4.favorite.html">add</a></li>
 </ul>
 
 <h2>add</h2>
 
 </body>
-</head>
 </html>
